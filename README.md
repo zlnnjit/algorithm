@@ -16,6 +16,7 @@
 + [面试题11: 旋转数组的最小数字](offerbook/Test11.md)
 + [面试题12: 矩阵中的路径](offerbook/Test12.md)
 + [面试题13: 机器人的运动范围](offerbook/Test13.md)
++ [面试题14-1: 剪绳子](offerbook/Test14.md)
 
 
 
