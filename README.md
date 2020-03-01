@@ -15,6 +15,7 @@
 + [面试题10-4: 变态跳台阶](offerbook/Test10-4.md)
 + [面试题11: 旋转数组的最小数字](offerbook/Test11.md)
 + [面试题12: 矩阵中的路径](offerbook/Test12.md)
++ [面试题13: 机器人的运动范围](offerbook/Test13.md)
 
 
 
@@ -31,6 +32,7 @@
 
 + [240. 搜索二维矩阵 II](leetcode/240.md)
 + [105.从前序与中序遍历序列构造二叉树](leetcode/105.md)
++ [343. 整数拆分](leetcode/343.md)
 
 ### Hard
 
@@ -59,3 +61,7 @@
 ### 递归
 
 + [E509. 斐波那契数](leetcode/509.md)
+
+### 动态规划
+
++ [M343. 整数拆分](leetcode/343.md)
