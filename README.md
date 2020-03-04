@@ -21,6 +21,7 @@
 + [面试题15:二进制中1的个数](offerbook/Test15.md)
 + [面试题16:数值的整数次方](offerbook/Test16.md)
 + [面试题17:打印从1到最大的n位数](offerbook/Test17.md)
++ [面试题18:删除链表的节点](offerbook/Test18.md)
 
 
 
