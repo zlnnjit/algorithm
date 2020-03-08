@@ -33,7 +33,7 @@
 + [509. 斐波那契数](leetcode/509.md)
 + [191. 位1的个数](leetcode/191.md)
 + [283. 移动零](leetcode/283.md)
-+ [E70. 爬楼梯](leetcode/70.md)
++ [70. 爬楼梯](leetcode/70.md)
 
 ### Medium
 
@@ -42,6 +42,7 @@
 + [343. 整数拆分](leetcode/343.md)
 + [50. Pow(x, n)](leetcode/50.md)
 + [11. 盛最多水的容器](leetcode/11.md)
++ [15. 三数之和](leetcode/15.md)
 
 ### Hard
 
@@ -55,6 +56,7 @@
 
 + [M11. 盛最多水的容器](leetcode/11.md)
 + [E283. 移动零](leetcode/283.md)
++ [M15. 三数之和](leetcode/15.md)
 + [E217. 存在重复元素](leetcode/217.md)
 + [M240. 搜索二维矩阵 II](leetcode/240.md)
 + [M79. 单词搜索](leetcode/79.md)
