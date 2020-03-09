@@ -44,6 +44,7 @@
 + [50. Pow(x, n)](leetcode/50.md)
 + [11. 盛最多水的容器](leetcode/11.md)
 + [15. 三数之和](leetcode/15.md)
++ [24. 两两交换链表中的节点](leetcode/24.md)
 
 ### Hard
 
@@ -65,6 +66,7 @@
 ### 链表
 
 + [E206. 反转链表](leetcode/206.md)
++ [M24. 两两交换链表中的节点](leetcode/24.md)
 
 ### 树
 
