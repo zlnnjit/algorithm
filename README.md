@@ -36,6 +36,7 @@
 + [70. 爬楼梯](leetcode/70.md)
 + [206. 反转链表](leetcode/206.md)
 + [26. 删除排序数组中的重复项](leetcode/26.md)
++ [189. 旋转数组](leetcode/189.md)
 
 ### Medium
 
@@ -66,6 +67,7 @@
 + [M240. 搜索二维矩阵 II](leetcode/240.md)
 + [M79. 单词搜索](leetcode/79.md)
 + [E26. 删除排序数组中的重复项](leetcode/26.md)
++ [E189. 旋转数组](leetcode/189.md)
 
 ### 链表
 
