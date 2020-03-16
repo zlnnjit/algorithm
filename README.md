@@ -50,6 +50,7 @@
 ### Hard
 
 + [154.寻找旋转排序数组中的最小值 II](leetcode/154.md)
++ [25. K 个一组翻转链表](leetcode/25.md)
 
 
 
@@ -70,6 +71,7 @@
 + [M24. 两两交换链表中的节点](leetcode/24.md)
 + [E141. 环形链表](leetcode/141.md)
 + [M142. 环形链表 II](leetcode/142.md)
++ [H25. K 个一组翻转链表](leetcode/25.md)
 
 ### 树
 
