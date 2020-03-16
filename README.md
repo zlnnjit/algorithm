@@ -37,6 +37,7 @@
 + [206. 反转链表](leetcode/206.md)
 + [26. 删除排序数组中的重复项](leetcode/26.md)
 + [189. 旋转数组](leetcode/189.md)
++ [21. 合并两个有序链表](leetcode/21.md)
 
 ### Medium
 
@@ -76,6 +77,7 @@
 + [E141. 环形链表](leetcode/141.md)
 + [M142. 环形链表 II](leetcode/142.md)
 + [H25. K 个一组翻转链表](leetcode/25.md)
++ [E21. 合并两个有序链表](leetcode/21.md)
 
 ### 树
 
