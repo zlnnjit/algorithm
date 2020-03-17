@@ -38,6 +38,7 @@
 + [26. 删除排序数组中的重复项](leetcode/26.md)
 + [189. 旋转数组](leetcode/189.md)
 + [21. 合并两个有序链表](leetcode/21.md)
++ [88. 合并两个有序数组](leetcode/88.md)
 
 ### Medium
 
@@ -69,6 +70,7 @@
 + [M79. 单词搜索](leetcode/79.md)
 + [E26. 删除排序数组中的重复项](leetcode/26.md)
 + [E189. 旋转数组](leetcode/189.md)
++ [E88. 合并两个有序数组](leetcode/88.md)
 
 ### 链表
 
