@@ -41,6 +41,7 @@
 + [88. 合并两个有序数组](leetcode/88.md)
 + [1. 两数之和](leetcode/1.md)
 + [66. 加一](leetcode/66.md)
++ [20.有效的括号](leetcode/20.md)
 
 ### Medium
 
@@ -84,6 +85,10 @@
 + [M142. 环形链表 II](leetcode/142.md)
 + [H25. K 个一组翻转链表](leetcode/25.md)
 + [E21. 合并两个有序链表](leetcode/21.md)
+
+### 栈
+
++ [E20.有效的括号](leetcode/20.md)
 
 ### 树
 
