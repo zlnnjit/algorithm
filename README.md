@@ -42,6 +42,7 @@
 + [1. 两数之和](leetcode/1.md)
 + [66. 加一](leetcode/66.md)
 + [20.有效的括号](leetcode/20.md)
++ [155. 最小栈](leetcode/155.md)
 
 ### Medium
 
@@ -89,6 +90,7 @@
 ### 栈
 
 + [E20.有效的括号](leetcode/20.md)
++ [E155. 最小栈](leetcode/155.md)
 
 ### 树
 
