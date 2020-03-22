@@ -54,6 +54,7 @@
 + [15. 三数之和](leetcode/15.md)
 + [24. 两两交换链表中的节点](leetcode/24.md)
 + [142. 环形链表 II](leetcode/142.md)
++ [5178. 四因数](leetcode/5178.md)
 
 ### Hard
 
@@ -110,5 +111,7 @@
 + [M343. 整数拆分](leetcode/343.md)
 + [E70. 爬楼梯](leetcode/70.md)
 
+### 数学
 
++ [M5178. 四因数](leetcode/5178.md)
 
